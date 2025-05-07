@@ -1,0 +1,1 @@
+egyszeru min-max szamitas pythonban
